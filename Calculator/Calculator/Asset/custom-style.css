@@ -64,7 +64,7 @@ nav.navbar.navbar-expand-lg.bg-dark.navbar-dark.fixed-top {
 
 */
 
-/*input.btn.btn-primary, 
+input.btn.btn-primary, 
 input.btn.btn-danger 
 {
     width: 70px;
@@ -72,12 +72,11 @@ input.btn.btn-danger
     border-radius: 0;
 }
 
-input#ContentPlaceHolder1_txtMonitor 
-{
+input#ContentPlaceHolder1_txtMonitor {
     background: #333;
     border-radius: 0;
     font-size: 25px;
     padding: 13px 0px;
     color: white;
     text-align: right !important;
-}*/
+}
